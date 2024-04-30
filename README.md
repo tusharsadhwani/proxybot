@@ -1,6 +1,6 @@
 # proxybot
 
-Telegram bot that proxies messages between DMs and a master chat.
+Telegram bot that proxies messages and message reactions between DMs and a master chat.
 
 ## Usage
 
